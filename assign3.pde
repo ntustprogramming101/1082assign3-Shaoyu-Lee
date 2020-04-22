@@ -242,7 +242,6 @@ void draw() {
           downPressed = false;
         }
       }
-      println(offsetLestY, offsetY, floor);
     }
 
     //When the button is not pressed, draw the groundhogIdle image
