@@ -329,6 +329,7 @@ void draw() {
         leftPressed = false;
         rightPressed = false;
         playerHealth = 2;
+        floor = 0;
         groundhogX = ONE_BLOCK*4;
         groundhogY = ONE_BLOCK;
         gameState = GAME_RUN; 
